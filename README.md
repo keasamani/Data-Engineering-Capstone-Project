@@ -1,4 +1,4 @@
-# Data-Engineering-Capstone-Project
+# Data-Engineering-Capstone-Project(@Trestle Academy)
 ## Hospital Data Ingestion Project
 ## Overview
 This project aims to demonstrate a data ingestion pipeline for a hospital using fake data generated with the Faker library. 
