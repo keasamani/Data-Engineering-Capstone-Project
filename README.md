@@ -5,9 +5,6 @@ This project aims to demonstrate a data ingestion pipeline for a hospital using 
 This pipeline extracts data from various sources within the hospital and ingests it into a centralized database. 
 The goal is to provide a daily overview of hospital operations to the medical director, enabling informed decision-making and monitoring of key metrics for effective hospital management.
 
-## Project Structure
-- 
-
 ## Getting Started
 
 To get started with this project, kindly follow these steps:
