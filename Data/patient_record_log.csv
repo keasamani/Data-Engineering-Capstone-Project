@@ -1,0 +1,372 @@
+Date,Patient ID/Name,Admission Time,Discharge Time,Diagnosis,Attending_Officer,is_admitted
+2024-06-01,PT163,06:04:34,11:07:36,['Seizures'],"('Nr Harris', 'Dr. Harris')",Yes
+2024-06-01,PT600,18:08:24,08:41:17,"['Seizures', 'Shortness of Breath']","('Nr Gibson', 'Dr. Gibson')",Yes
+2024-06-01,PT494,10:02:12,11:53:10,"['Cough', 'Altered Mental Status']","('Nr Martinez', 'Dr. Martinez')",Yes
+2024-06-01,PT512,10:31:33,23:13:23,['Nausea and Vomiting'],"('Nr Mcdonald', 'Dr. Mcdonald')",No
+2024-06-01,PT752,00:25:44,02:25:32,['Rash'],"('Nr Gutierrez', 'Dr. Gutierrez')",Yes
+2024-06-01,PT222,00:44:50,08:22:28,['Fever'],"('Nr Andrews', 'Dr. Andrews')",No
+2024-06-02,PT782,00:20:53,12:36:27,"['Bleeding', 'Weakness', 'Fever']","('Nr May', 'Dr. May')",Yes
+2024-06-02,PT727,10:54:04,09:48:05,['Difficulty Urinating'],"('Nr Jones', 'Dr. Jones')",No
+2024-06-02,PT619,01:46:23,20:57:52,['Altered Mental Status'],"('Nr Nelson', 'Dr. Nelson')",No
+2024-06-02,PT507,07:59:53,00:00:34,"['Cough', 'Difficulty Urinating', 'Nausea and Vomiting']","('Nr Harvey', 'Dr. Harvey')",Yes
+2024-06-02,PT914,10:29:27,13:54:29,"['Weakness', 'Cough', 'Dizziness or Vertigo']","('Nr Ortiz', 'Dr. Ortiz')",No
+2024-06-02,PT903,21:58:50,21:37:35,['Headache'],"('Nr Preston', 'Dr. Preston')",No
+2024-06-02,PT394,07:08:03,23:20:36,"['Fever', 'Changes in Vision', 'Rash']","('Nr Banks', 'Dr. Banks')",No
+2024-06-02,PT385,18:00:53,23:22:46,['Shortness of Breath'],"('Nr Rogers', 'Dr. Rogers')",Yes
+2024-06-02,PT404,08:57:08,03:41:56,"['Changes in Vision', 'Nausea and Vomiting']","('Nr Frazier', 'Dr. Frazier')",No
+2024-06-02,PT555,05:56:40,18:31:54,"['Chest Pain', 'Abdominal Distress', 'Fever']","('Nr Phelps', 'Dr. Phelps')",Yes
+2024-06-02,PT619,02:37:56,17:20:49,"['Changes in Vision', 'Fatigue', 'Altered Mental Status']","('Nr Ayala', 'Dr. Ayala')",No
+2024-06-02,PT336,14:57:25,07:41:42,['Abdominal Distress'],"('Nr Finley', 'Dr. Finley')",No
+2024-06-02,PT981,09:25:29,12:06:20,"['Nausea and Vomiting', 'Headache']","('Nr Wilson', 'Dr. Wilson')",Yes
+2024-06-02,PT601,14:23:05,05:22:40,"['Seizures', 'Pain']","('Nr Newton', 'Dr. Newton')",No
+2024-06-02,PT463,21:22:28,02:48:35,['Chest Pain'],"('Nr Griffin', 'Dr. Griffin')",No
+2024-06-02,PT401,23:58:22,08:15:02,"['Dizziness or Vertigo', 'Abdominal Distress', 'Altered Mental Status']","('Nr Bartlett', 'Dr. Bartlett')",Yes
+2024-06-02,PT486,08:42:52,14:36:15,"['Altered Mental Status', 'Difficulty Urinating']","('Nr Ramirez', 'Dr. Ramirez')",Yes
+2024-06-02,PT228,23:31:48,13:26:20,['Nausea and Vomiting'],"('Nr Thompson', 'Dr. Thompson')",Yes
+2024-06-02,PT410,19:22:34,11:50:10,['Weakness'],"('Nr Baldwin', 'Dr. Baldwin')",No
+2024-06-02,PT936,21:42:53,21:06:15,"['Fatigue', 'Bleeding', 'Headache']","('Nr Garcia', 'Dr. Garcia')",No
+2024-06-03,PT530,21:02:02,11:40:06,['Headache'],"('Nr Forbes', 'Dr. Forbes')",No
+2024-06-03,PT605,05:56:58,05:48:18,"['Seizures', 'Fatigue', 'Altered Mental Status']","('Nr Sanchez', 'Dr. Sanchez')",No
+2024-06-03,PT832,21:08:05,02:41:37,['Pain'],"('Nr Turner', 'Dr. Turner')",Yes
+2024-06-03,PT517,03:11:37,05:21:20,['Dizziness or Vertigo'],"('Nr Vaughn', 'Dr. Vaughn')",No
+2024-06-03,PT676,16:43:26,22:42:16,"['Rash', 'Fatigue', 'Seizures']","('Nr Carpenter', 'Dr. Carpenter')",No
+2024-06-03,PT035,10:44:54,00:53:00,['Nausea and Vomiting'],"('Nr Roberts', 'Dr. Roberts')",Yes
+2024-06-03,PT026,18:25:00,23:52:18,"['Seizures', 'Pain']","('Nr House', 'Dr. House')",Yes
+2024-06-03,PT050,05:41:14,13:09:07,['Abdominal Distress'],"('Nr Salazar', 'Dr. Salazar')",No
+2024-06-03,PT388,07:31:41,09:55:55,"['Difficulty Urinating', 'Nausea and Vomiting']","('Nr Garcia', 'Dr. Garcia')",No
+2024-06-03,PT323,21:51:45,15:47:25,"['Altered Mental Status', 'Shortness of Breath', 'Dizziness or Vertigo']","('Nr Torres', 'Dr. Torres')",Yes
+2024-06-03,PT354,14:52:21,08:41:25,['Dizziness or Vertigo'],"('Nr Livingston', 'Dr. Livingston')",No
+2024-06-04,PT209,04:44:49,21:37:07,"['Shortness of Breath', 'Cough']","('Nr Brown', 'Dr. Brown')",No
+2024-06-04,PT363,02:34:00,23:22:04,"['Fatigue', 'Nausea and Vomiting', 'Shortness of Breath']","('Nr Armstrong', 'Dr. Armstrong')",No
+2024-06-04,PT532,05:58:42,21:06:08,"['Cough', 'Nausea and Vomiting', 'Pain']","('Nr Smith', 'Dr. Smith')",No
+2024-06-04,PT209,20:04:06,07:52:26,"['Fever', 'Changes in Vision', 'Altered Mental Status']","('Nr Pham', 'Dr. Pham')",No
+2024-06-04,PT526,09:01:29,09:30:36,"['Pain', 'Cough', 'Abdominal Distress']","('Nr Bennett', 'Dr. Bennett')",Yes
+2024-06-04,PT926,05:48:04,08:53:13,['Cough'],"('Nr Vang', 'Dr. Vang')",No
+2024-06-04,PT589,13:23:32,20:54:38,"['Changes in Vision', 'Weakness']","('Nr Castillo', 'Dr. Castillo')",No
+2024-06-04,PT504,14:31:41,08:22:02,"['Nausea and Vomiting', 'Cough', 'Chest Pain']","('Nr Beck', 'Dr. Beck')",No
+2024-06-04,PT045,21:19:32,00:34:01,['Rash'],"('Nr Hernandez', 'Dr. Hernandez')",No
+2024-06-04,PT019,04:46:52,17:59:12,"['Seizures', 'Bleeding', 'Headache']","('Nr Ward', 'Dr. Ward')",Yes
+2024-06-04,PT569,08:28:30,07:03:01,['Fever'],"('Nr Nelson', 'Dr. Nelson')",Yes
+2024-06-04,PT671,05:25:15,23:07:41,['Chest Pain'],"('Nr Gonzalez', 'Dr. Gonzalez')",No
+2024-06-04,PT735,12:41:14,01:41:43,"['Bleeding', 'Altered Mental Status']","('Nr Pacheco', 'Dr. Pacheco')",Yes
+2024-06-04,PT876,16:34:57,21:41:40,['Pain'],"('Nr Hernandez', 'Dr. Hernandez')",Yes
+2024-06-04,PT671,17:41:28,04:26:29,"['Chest Pain', 'Weakness', 'Fever']","('Nr Barrett', 'Dr. Barrett')",Yes
+2024-06-05,PT389,10:50:33,06:09:48,"['Weakness', 'Altered Mental Status', 'Seizures']","('Nr Wood', 'Dr. Wood')",Yes
+2024-06-05,PT817,09:37:51,03:13:43,"['Altered Mental Status', 'Fever', 'Dizziness or Vertigo']","('Nr Young', 'Dr. Young')",No
+2024-06-05,PT259,22:48:58,03:34:46,"['Shortness of Breath', 'Chest Pain']","('Nr Stephenson', 'Dr. Stephenson')",Yes
+2024-06-05,PT713,18:44:56,07:17:34,['Cough'],"('Nr Walls', 'Dr. Walls')",Yes
+2024-06-05,PT337,22:04:48,07:53:02,"['Seizures', 'Bleeding', 'Rash']","('Nr Lang', 'Dr. Lang')",Yes
+2024-06-05,PT583,12:29:20,22:34:51,"['Chest Pain', 'Dizziness or Vertigo']","('Nr Johnson', 'Dr. Johnson')",No
+2024-06-05,PT699,16:51:16,20:30:06,"['Chest Pain', 'Bleeding']","('Nr Mcclain', 'Dr. Mcclain')",Yes
+2024-06-05,PT281,00:02:19,07:32:03,"['Headache', 'Cough', 'Weakness']","('Nr Cooley', 'Dr. Cooley')",Yes
+2024-06-05,PT682,21:22:22,18:07:59,"['Headache', 'Dizziness or Vertigo']","('Nr Bell', 'Dr. Bell')",No
+2024-06-05,PT819,06:37:51,22:20:06,['Abdominal Distress'],"('Nr Armstrong', 'Dr. Armstrong')",Yes
+2024-06-06,PT312,12:35:52,05:32:27,"['Difficulty Urinating', 'Weakness']","('Nr Reed', 'Dr. Reed')",No
+2024-06-06,PT108,18:52:34,10:33:06,"['Weakness', 'Fever']","('Nr Rodriguez', 'Dr. Rodriguez')",No
+2024-06-06,PT444,10:32:52,19:49:12,"['Changes in Vision', 'Difficulty Urinating', 'Abdominal Distress']","('Nr Sandoval', 'Dr. Sandoval')",No
+2024-06-06,PT076,01:15:40,07:50:52,"['Chest Pain', 'Changes in Vision']","('Nr Willis', 'Dr. Willis')",No
+2024-06-06,PT766,08:32:40,20:36:04,"['Fatigue', 'Difficulty Urinating']","('Nr Davis', 'Dr. Davis')",Yes
+2024-06-06,PT901,19:38:51,09:56:35,"['Nausea and Vomiting', 'Fever']","('Nr Avila', 'Dr. Avila')",No
+2024-06-06,PT611,04:47:10,09:47:54,"['Altered Mental Status', 'Weakness']","('Nr Phillips', 'Dr. Phillips')",No
+2024-06-07,PT917,20:45:37,11:21:38,"['Pain', 'Cough']","('Nr Marshall', 'Dr. Marshall')",No
+2024-06-07,PT456,14:27:53,12:29:56,"['Dizziness or Vertigo', 'Seizures', 'Changes in Vision']","('Nr Ward', 'Dr. Ward')",No
+2024-06-07,PT962,14:49:21,06:16:07,"['Chest Pain', 'Seizures', 'Abdominal Distress']","('Nr Myers', 'Dr. Myers')",Yes
+2024-06-07,PT601,18:44:24,08:51:50,"['Dizziness or Vertigo', 'Changes in Vision', 'Nausea and Vomiting']","('Nr Goodwin', 'Dr. Goodwin')",Yes
+2024-06-07,PT203,18:40:37,06:46:18,"['Abdominal Distress', 'Altered Mental Status']","('Nr Flores', 'Dr. Flores')",No
+2024-06-07,PT613,13:51:21,04:04:46,"['Seizures', 'Fever']","('Nr Jackson', 'Dr. Jackson')",Yes
+2024-06-07,PT486,09:04:08,15:55:45,"['Fever', 'Shortness of Breath', 'Bleeding']","('Nr Salas', 'Dr. Salas')",No
+2024-06-07,PT328,23:42:55,12:01:01,"['Nausea and Vomiting', 'Dizziness or Vertigo', 'Altered Mental Status']","('Nr Giles', 'Dr. Giles')",Yes
+2024-06-08,PT922,01:42:13,16:12:09,['Fatigue'],"('Nr Gregory', 'Dr. Gregory')",Yes
+2024-06-08,PT521,13:29:08,22:17:15,['Cough'],"('Nr Harper', 'Dr. Harper')",No
+2024-06-08,PT411,06:51:37,20:01:16,['Cough'],"('Nr Brown', 'Dr. Brown')",No
+2024-06-08,PT947,22:53:19,23:50:58,"['Chest Pain', 'Altered Mental Status', 'Pain']","('Nr Henderson', 'Dr. Henderson')",No
+2024-06-08,PT776,17:56:01,09:02:56,['Fatigue'],"('Nr Nunez', 'Dr. Nunez')",No
+2024-06-08,PT984,20:37:22,18:53:59,['Bleeding'],"('Nr Alexander', 'Dr. Alexander')",Yes
+2024-06-08,PT543,01:26:07,02:52:11,"['Bleeding', 'Cough']","('Nr Williams', 'Dr. Williams')",Yes
+2024-06-08,PT946,12:04:40,00:05:43,"['Nausea and Vomiting', 'Altered Mental Status', 'Shortness of Breath']","('Nr Moore', 'Dr. Moore')",Yes
+2024-06-09,PT069,09:44:16,06:31:27,"['Headache', 'Shortness of Breath']","('Nr Austin', 'Dr. Austin')",No
+2024-06-09,PT304,06:55:18,00:02:35,"['Difficulty Urinating', 'Abdominal Distress', 'Rash']","('Nr Washington', 'Dr. Washington')",No
+2024-06-09,PT268,08:51:15,06:13:06,"['Altered Mental Status', 'Seizures', 'Bleeding']","('Nr Gomez', 'Dr. Gomez')",No
+2024-06-09,PT826,11:56:19,01:20:47,"['Pain', 'Shortness of Breath']","('Nr Wright', 'Dr. Wright')",No
+2024-06-09,PT817,19:46:16,07:04:38,"['Headache', 'Rash', 'Fever']","('Nr Murphy', 'Dr. Murphy')",No
+2024-06-09,PT844,01:10:10,09:50:36,"['Cough', 'Changes in Vision']","('Nr Hall', 'Dr. Hall')",No
+2024-06-09,PT473,15:43:08,18:54:35,['Headache'],"('Nr Tate', 'Dr. Tate')",No
+2024-06-09,PT900,13:19:33,21:16:43,"['Weakness', 'Altered Mental Status', 'Shortness of Breath']","('Nr Mcbride', 'Dr. Mcbride')",No
+2024-06-09,PT402,00:03:57,11:38:19,"['Seizures', 'Cough', 'Shortness of Breath']","('Nr Fleming', 'Dr. Fleming')",Yes
+2024-06-09,PT431,06:40:08,09:27:06,"['Headache', 'Fatigue', 'Nausea and Vomiting']","('Nr Chen', 'Dr. Chen')",No
+2024-06-09,PT347,06:47:02,06:43:37,"['Difficulty Urinating', 'Cough', 'Chest Pain']","('Nr Hernandez', 'Dr. Hernandez')",No
+2024-06-09,PT487,16:12:40,16:19:30,"['Altered Mental Status', 'Fever']","('Nr Clark', 'Dr. Clark')",Yes
+2024-06-10,PT242,08:09:58,21:19:49,"['Fatigue', 'Altered Mental Status']","('Nr Singh', 'Dr. Singh')",No
+2024-06-10,PT306,16:53:11,21:32:38,['Fever'],"('Nr Allen', 'Dr. Allen')",No
+2024-06-10,PT136,00:50:31,13:53:35,"['Rash', 'Changes in Vision', 'Chest Pain']","('Nr Hart', 'Dr. Hart')",No
+2024-06-10,PT458,23:37:52,23:12:49,['Pain'],"('Nr Perry', 'Dr. Perry')",No
+2024-06-10,PT007,09:58:09,08:49:22,['Pain'],"('Nr Rodriguez', 'Dr. Rodriguez')",No
+2024-06-10,PT319,04:47:48,13:55:02,"['Fatigue', 'Rash', 'Seizures']","('Nr Roy', 'Dr. Roy')",No
+2024-06-10,PT918,16:24:01,19:06:01,"['Rash', 'Bleeding', 'Abdominal Distress']","('Nr Mcdaniel', 'Dr. Mcdaniel')",Yes
+2024-06-11,PT938,11:19:41,09:59:57,"['Abdominal Distress', 'Nausea and Vomiting']","('Nr Armstrong', 'Dr. Armstrong')",No
+2024-06-11,PT130,18:46:59,04:51:24,"['Altered Mental Status', 'Bleeding']","('Nr Gordon', 'Dr. Gordon')",No
+2024-06-11,PT169,12:37:07,20:04:55,['Cough'],"('Nr Long', 'Dr. Long')",No
+2024-06-11,PT205,18:40:42,16:18:47,"['Abdominal Distress', 'Fatigue', 'Nausea and Vomiting']","('Nr Park', 'Dr. Park')",Yes
+2024-06-11,PT088,03:24:30,19:29:23,"['Pain', 'Seizures']","('Nr Miller', 'Dr. Miller')",No
+2024-06-11,PT149,14:50:47,10:20:44,['Bleeding'],"('Nr Jackson', 'Dr. Jackson')",No
+2024-06-11,PT031,10:18:32,13:18:30,"['Cough', 'Fatigue']","('Nr Bell', 'Dr. Bell')",No
+2024-06-11,PT434,06:03:48,12:01:44,['Nausea and Vomiting'],"('Nr Taylor', 'Dr. Taylor')",Yes
+2024-06-11,PT201,21:53:16,22:16:36,"['Shortness of Breath', 'Dizziness or Vertigo']","('Nr Horton', 'Dr. Horton')",Yes
+2024-06-11,PT746,17:03:56,03:35:02,['Difficulty Urinating'],"('Nr Miller', 'Dr. Miller')",No
+2024-06-11,PT630,18:42:15,07:35:24,"['Bleeding', 'Cough']","('Nr Warren', 'Dr. Warren')",Yes
+2024-06-11,PT210,00:29:04,10:18:26,"['Difficulty Urinating', 'Nausea and Vomiting']","('Nr Carey', 'Dr. Carey')",No
+2024-06-11,PT957,13:36:45,08:16:04,"['Fever', 'Cough']","('Nr Kim', 'Dr. Kim')",Yes
+2024-06-11,PT058,08:06:06,13:59:54,"['Altered Mental Status', 'Fatigue', 'Difficulty Urinating']","('Nr Lee', 'Dr. Lee')",No
+2024-06-11,PT406,07:36:24,12:10:23,"['Weakness', 'Seizures', 'Chest Pain']","('Nr Harris', 'Dr. Harris')",Yes
+2024-06-11,PT377,03:40:59,18:36:54,['Dizziness or Vertigo'],"('Nr Larson', 'Dr. Larson')",Yes
+2024-06-11,PT557,04:57:19,05:33:19,"['Dizziness or Vertigo', 'Altered Mental Status', 'Chest Pain']","('Nr Price', 'Dr. Price')",Yes
+2024-06-11,PT794,22:42:28,01:37:17,['Shortness of Breath'],"('Nr Hays', 'Dr. Hays')",Yes
+2024-06-11,PT144,05:47:42,13:31:38,"['Altered Mental Status', 'Fever']","('Nr Smith', 'Dr. Smith')",Yes
+2024-06-12,PT742,03:53:34,02:26:08,['Difficulty Urinating'],"('Nr Campbell', 'Dr. Campbell')",No
+2024-06-12,PT003,01:51:03,22:42:44,['Headache'],"('Nr Sanchez', 'Dr. Sanchez')",No
+2024-06-12,PT672,03:19:48,03:07:57,['Dizziness or Vertigo'],"('Nr Bennett', 'Dr. Bennett')",No
+2024-06-12,PT376,05:25:53,22:33:02,"['Altered Mental Status', 'Fever', 'Chest Pain']","('Nr Jones', 'Dr. Jones')",No
+2024-06-12,PT947,15:44:45,08:10:21,['Seizures'],"('Nr Anderson', 'Dr. Anderson')",No
+2024-06-12,PT714,05:38:08,20:34:22,['Difficulty Urinating'],"('Nr Rodriguez', 'Dr. Rodriguez')",No
+2024-06-12,PT438,19:31:23,12:05:34,"['Rash', 'Chest Pain', 'Difficulty Urinating']","('Nr Lawson', 'Dr. Lawson')",Yes
+2024-06-12,PT531,01:44:34,12:07:00,"['Seizures', 'Shortness of Breath', 'Difficulty Urinating']","('Nr Baker', 'Dr. Baker')",No
+2024-06-12,PT550,08:05:03,19:40:21,"['Chest Pain', 'Headache', 'Dizziness or Vertigo']","('Nr Rice', 'Dr. Rice')",No
+2024-06-12,PT376,01:50:20,03:39:20,"['Pain', 'Abdominal Distress', 'Rash']","('Nr Moore', 'Dr. Moore')",No
+2024-06-12,PT906,02:06:40,01:51:16,"['Fatigue', 'Pain']","('Nr Cox', 'Dr. Cox')",No
+2024-06-12,PT780,21:41:42,02:48:18,"['Weakness', 'Pain']","('Nr Smith', 'Dr. Smith')",Yes
+2024-06-12,PT748,05:33:36,08:47:51,['Difficulty Urinating'],"('Nr Salazar', 'Dr. Salazar')",No
+2024-06-12,PT680,01:33:23,11:22:25,['Chest Pain'],"('Nr Bradley', 'Dr. Bradley')",No
+2024-06-13,PT601,13:55:57,15:56:44,"['Weakness', 'Seizures', 'Pain']","('Nr Lewis', 'Dr. Lewis')",No
+2024-06-13,PT754,18:39:18,00:14:07,"['Fever', 'Difficulty Urinating']","('Nr Villarreal', 'Dr. Villarreal')",No
+2024-06-13,PT312,07:30:26,11:23:08,"['Rash', 'Changes in Vision']","('Nr Williams', 'Dr. Williams')",No
+2024-06-13,PT676,09:12:35,03:21:19,['Chest Pain'],"('Nr Jones', 'Dr. Jones')",No
+2024-06-13,PT465,00:53:52,19:22:59,"['Abdominal Distress', 'Changes in Vision']","('Nr Taylor', 'Dr. Taylor')",No
+2024-06-13,PT942,10:41:40,13:01:01,"['Dizziness or Vertigo', 'Weakness']","('Nr Morris', 'Dr. Morris')",Yes
+2024-06-13,PT720,19:51:51,00:35:15,"['Shortness of Breath', 'Fever', 'Chest Pain']","('Nr Torres', 'Dr. Torres')",No
+2024-06-13,PT187,20:18:16,08:51:16,"['Abdominal Distress', 'Shortness of Breath']","('Nr Dennis', 'Dr. Dennis')",Yes
+2024-06-13,PT132,21:46:59,04:56:17,"['Bleeding', 'Fatigue', 'Rash']","('Nr Frazier', 'Dr. Frazier')",Yes
+2024-06-13,PT109,01:45:57,19:44:21,"['Chest Pain', 'Rash', 'Fever']","('Nr Hess', 'Dr. Hess')",Yes
+2024-06-13,PT043,05:39:51,09:45:44,['Nausea and Vomiting'],"('Nr Martin', 'Dr. Martin')",No
+2024-06-13,PT650,20:40:58,11:41:06,"['Headache', 'Shortness of Breath', 'Altered Mental Status']","('Nr Brown', 'Dr. Brown')",No
+2024-06-13,PT117,22:38:48,08:29:44,"['Abdominal Distress', 'Rash', 'Altered Mental Status']","('Nr Stark', 'Dr. Stark')",Yes
+2024-06-13,PT843,17:55:41,11:57:23,"['Pain', 'Seizures']","('Nr Simmons', 'Dr. Simmons')",Yes
+2024-06-14,PT379,20:49:08,16:41:59,"['Dizziness or Vertigo', 'Pain', 'Nausea and Vomiting']","('Nr Evans', 'Dr. Evans')",Yes
+2024-06-14,PT980,02:42:20,07:11:56,"['Rash', 'Abdominal Distress']","('Nr Cole', 'Dr. Cole')",No
+2024-06-14,PT651,21:42:23,22:06:08,"['Shortness of Breath', 'Altered Mental Status', 'Weakness']","('Nr Kim', 'Dr. Kim')",Yes
+2024-06-14,PT851,07:08:31,20:08:12,"['Cough', 'Chest Pain', 'Abdominal Distress']","('Nr Anderson', 'Dr. Anderson')",Yes
+2024-06-14,PT196,09:18:19,10:05:53,"['Pain', 'Changes in Vision']","('Nr Newman', 'Dr. Newman')",Yes
+2024-06-15,PT793,02:28:44,22:30:03,"['Fever', 'Altered Mental Status', 'Dizziness or Vertigo']","('Nr Lewis', 'Dr. Lewis')",No
+2024-06-15,PT259,05:32:44,09:12:02,"['Abdominal Distress', 'Weakness']","('Nr Wilkins', 'Dr. Wilkins')",Yes
+2024-06-15,PT374,14:35:06,22:15:16,"['Seizures', 'Altered Mental Status', 'Bleeding']","('Nr Yates', 'Dr. Yates')",Yes
+2024-06-15,PT929,19:50:09,03:37:46,['Changes in Vision'],"('Nr Burnett', 'Dr. Burnett')",No
+2024-06-15,PT748,02:39:20,20:37:23,"['Shortness of Breath', 'Headache']","('Nr Butler', 'Dr. Butler')",No
+2024-06-15,PT295,05:45:41,13:24:34,['Weakness'],"('Nr Thompson', 'Dr. Thompson')",Yes
+2024-06-15,PT742,16:52:41,05:37:59,"['Bleeding', 'Abdominal Distress', 'Difficulty Urinating']","('Nr Webb', 'Dr. Webb')",Yes
+2024-06-15,PT425,23:52:14,19:08:56,"['Fatigue', 'Weakness', 'Changes in Vision']","('Nr Alvarez', 'Dr. Alvarez')",No
+2024-06-15,PT276,07:10:03,16:12:56,"['Nausea and Vomiting', 'Seizures', 'Rash']","('Nr Copeland', 'Dr. Copeland')",No
+2024-06-15,PT891,04:20:59,09:38:24,['Headache'],"('Nr Powell', 'Dr. Powell')",No
+2024-06-15,PT910,06:42:26,02:58:59,"['Fever', 'Nausea and Vomiting', 'Chest Pain']","('Nr Lewis', 'Dr. Lewis')",Yes
+2024-06-15,PT381,01:40:39,14:50:43,"['Abdominal Distress', 'Altered Mental Status', 'Nausea and Vomiting']","('Nr Vaughan', 'Dr. Vaughan')",Yes
+2024-06-15,PT533,02:30:08,06:31:25,"['Seizures', 'Headache']","('Nr Thomas', 'Dr. Thomas')",Yes
+2024-06-15,PT781,23:52:28,19:01:06,"['Cough', 'Weakness']","('Nr Blackwell', 'Dr. Blackwell')",No
+2024-06-15,PT150,13:19:10,11:51:32,"['Nausea and Vomiting', 'Weakness']","('Nr Nelson', 'Dr. Nelson')",No
+2024-06-15,PT585,07:57:18,07:50:49,"['Dizziness or Vertigo', 'Fever', 'Seizures']","('Nr Dorsey', 'Dr. Dorsey')",Yes
+2024-06-15,PT949,01:57:42,14:36:04,"['Altered Mental Status', 'Pain']","('Nr Rich', 'Dr. Rich')",Yes
+2024-06-15,PT290,07:32:55,16:51:42,"['Chest Pain', 'Shortness of Breath']","('Nr Brown', 'Dr. Brown')",Yes
+2024-06-16,PT766,20:07:04,19:17:02,['Chest Pain'],"('Nr Wolfe', 'Dr. Wolfe')",Yes
+2024-06-16,PT892,23:06:48,06:16:54,['Cough'],"('Nr Parker', 'Dr. Parker')",Yes
+2024-06-16,PT527,23:51:20,09:03:29,"['Chest Pain', 'Pain']","('Nr Ho', 'Dr. Ho')",Yes
+2024-06-16,PT021,04:25:59,16:39:02,"['Abdominal Distress', 'Fatigue']","('Nr Romero', 'Dr. Romero')",Yes
+2024-06-16,PT682,07:13:31,14:40:54,"['Altered Mental Status', 'Fatigue', 'Chest Pain']","('Nr Walker', 'Dr. Walker')",Yes
+2024-06-16,PT911,10:52:42,20:23:02,"['Seizures', 'Bleeding', 'Fever']","('Nr Miller', 'Dr. Miller')",Yes
+2024-06-17,PT177,15:21:52,19:32:56,['Rash'],"('Nr Herrera', 'Dr. Herrera')",No
+2024-06-17,PT961,14:45:43,20:38:14,['Altered Mental Status'],"('Nr George', 'Dr. George')",Yes
+2024-06-17,PT955,08:37:00,22:41:06,"['Shortness of Breath', 'Pain']","('Nr Howell', 'Dr. Howell')",No
+2024-06-17,PT426,05:46:14,02:33:11,['Abdominal Distress'],"('Nr Green', 'Dr. Green')",Yes
+2024-06-17,PT219,06:32:52,17:32:54,"['Changes in Vision', 'Rash', 'Nausea and Vomiting']","('Nr Henderson', 'Dr. Henderson')",No
+2024-06-17,PT020,03:14:05,03:27:28,"['Cough', 'Shortness of Breath']","('Nr Miller', 'Dr. Miller')",Yes
+2024-06-17,PT850,16:02:57,05:36:06,['Nausea and Vomiting'],"('Nr Walters', 'Dr. Walters')",No
+2024-06-17,PT083,21:51:54,05:19:12,['Seizures'],"('Nr Johns', 'Dr. Johns')",No
+2024-06-17,PT362,06:46:00,06:15:41,"['Difficulty Urinating', 'Altered Mental Status']","('Nr Carr', 'Dr. Carr')",No
+2024-06-17,PT118,01:29:39,01:05:54,"['Changes in Vision', 'Rash']","('Nr Walters', 'Dr. Walters')",Yes
+2024-06-17,PT754,22:32:49,01:55:06,['Pain'],"('Nr Martinez', 'Dr. Martinez')",No
+2024-06-17,PT924,19:11:01,01:17:22,"['Chest Pain', 'Changes in Vision', 'Fever']","('Nr Rodriguez', 'Dr. Rodriguez')",No
+2024-06-17,PT339,17:05:33,03:26:31,['Fever'],"('Nr Garcia', 'Dr. Garcia')",No
+2024-06-17,PT072,08:42:52,09:35:15,['Nausea and Vomiting'],"('Nr Montoya', 'Dr. Montoya')",Yes
+2024-06-17,PT238,06:00:41,06:10:29,['Nausea and Vomiting'],"('Nr Barnes', 'Dr. Barnes')",Yes
+2024-06-17,PT372,19:10:48,15:24:30,"['Seizures', 'Difficulty Urinating']","('Nr Reed', 'Dr. Reed')",Yes
+2024-06-17,PT195,07:18:44,07:14:56,"['Headache', 'Nausea and Vomiting']","('Nr Harrison', 'Dr. Harrison')",Yes
+2024-06-17,PT391,09:41:32,13:33:11,"['Pain', 'Fever', 'Bleeding']","('Nr Lloyd', 'Dr. Lloyd')",No
+2024-06-18,PT114,11:57:37,04:41:05,['Pain'],"('Nr Foster', 'Dr. Foster')",No
+2024-06-18,PT565,14:17:47,01:09:59,"['Seizures', 'Cough', 'Weakness']","('Nr Edwards', 'Dr. Edwards')",No
+2024-06-18,PT872,10:54:27,09:51:42,['Cough'],"('Nr Gonzalez', 'Dr. Gonzalez')",No
+2024-06-18,PT324,13:07:51,17:35:06,"['Altered Mental Status', 'Abdominal Distress', 'Cough']","('Nr Williams', 'Dr. Williams')",Yes
+2024-06-18,PT861,16:00:53,07:16:07,"['Dizziness or Vertigo', 'Seizures', 'Headache']","('Nr Chavez', 'Dr. Chavez')",Yes
+2024-06-18,PT177,15:53:01,08:40:46,['Rash'],"('Nr Jones', 'Dr. Jones')",No
+2024-06-18,PT591,22:05:29,09:32:38,"['Nausea and Vomiting', 'Altered Mental Status', 'Chest Pain']","('Nr Oliver', 'Dr. Oliver')",No
+2024-06-18,PT054,20:47:19,22:32:41,"['Dizziness or Vertigo', 'Nausea and Vomiting']","('Nr Jimenez', 'Dr. Jimenez')",No
+2024-06-19,PT173,22:35:43,12:58:39,['Fatigue'],"('Nr Mitchell', 'Dr. Mitchell')",Yes
+2024-06-19,PT320,06:15:20,19:09:37,"['Pain', 'Fatigue']","('Nr Walker', 'Dr. Walker')",No
+2024-06-19,PT223,05:26:03,02:51:02,['Difficulty Urinating'],"('Nr Shaffer', 'Dr. Shaffer')",No
+2024-06-19,PT560,13:36:57,04:36:01,['Nausea and Vomiting'],"('Nr Hernandez', 'Dr. Hernandez')",No
+2024-06-19,PT794,08:58:23,08:15:23,"['Nausea and Vomiting', 'Dizziness or Vertigo', 'Chest Pain']","('Nr Small', 'Dr. Small')",Yes
+2024-06-19,PT561,10:49:37,11:58:26,"['Difficulty Urinating', 'Headache', 'Seizures']","('Nr West', 'Dr. West')",No
+2024-06-19,PT804,13:07:34,03:27:09,"['Pain', 'Fatigue', 'Changes in Vision']","('Nr Mcintyre', 'Dr. Mcintyre')",Yes
+2024-06-19,PT440,07:58:55,01:52:47,['Difficulty Urinating'],"('Nr Swanson', 'Dr. Swanson')",No
+2024-06-19,PT359,22:55:13,05:43:12,['Changes in Vision'],"('Nr Harper', 'Dr. Harper')",Yes
+2024-06-19,PT373,04:14:24,20:16:52,"['Headache', 'Bleeding']","('Nr Yu', 'Dr. Yu')",Yes
+2024-06-19,PT896,23:03:21,03:31:35,"['Shortness of Breath', 'Nausea and Vomiting']","('Nr Guzman', 'Dr. Guzman')",No
+2024-06-19,PT669,16:39:36,08:51:14,['Seizures'],"('Nr Richardson', 'Dr. Richardson')",Yes
+2024-06-19,PT769,19:43:24,00:28:29,['Abdominal Distress'],"('Nr Howell', 'Dr. Howell')",Yes
+2024-06-19,PT055,13:20:30,23:50:12,['Chest Pain'],"('Nr Wilson', 'Dr. Wilson')",Yes
+2024-06-19,PT637,11:07:21,18:30:02,"['Fatigue', 'Nausea and Vomiting']","('Nr Horton', 'Dr. Horton')",No
+2024-06-19,PT142,08:09:09,19:32:14,"['Chest Pain', 'Rash', 'Cough']","('Nr Clark', 'Dr. Clark')",No
+2024-06-19,PT450,20:00:52,09:50:43,"['Bleeding', 'Cough']","('Nr Campbell', 'Dr. Campbell')",Yes
+2024-06-19,PT177,03:10:26,01:31:09,"['Rash', 'Changes in Vision']","('Nr Lewis', 'Dr. Lewis')",Yes
+2024-06-19,PT995,22:45:21,05:20:36,"['Fatigue', 'Weakness']","('Nr Davis', 'Dr. Davis')",Yes
+2024-06-19,PT906,01:24:32,11:31:17,"['Cough', 'Fatigue', 'Altered Mental Status']","('Nr Diaz', 'Dr. Diaz')",No
+2024-06-20,PT556,09:58:05,15:26:01,['Weakness'],"('Nr Phillips', 'Dr. Phillips')",No
+2024-06-20,PT764,09:31:55,13:33:35,"['Pain', 'Abdominal Distress', 'Changes in Vision']","('Nr Stewart', 'Dr. Stewart')",No
+2024-06-20,PT952,18:12:41,04:20:45,"['Altered Mental Status', 'Seizures']","('Nr Wright', 'Dr. Wright')",Yes
+2024-06-20,PT900,14:37:38,16:10:34,"['Altered Mental Status', 'Chest Pain']","('Nr Martin', 'Dr. Martin')",No
+2024-06-20,PT105,10:15:35,07:30:50,"['Fever', 'Altered Mental Status', 'Rash']","('Nr Hill', 'Dr. Hill')",Yes
+2024-06-20,PT460,09:02:51,16:48:44,"['Seizures', 'Weakness', 'Abdominal Distress']","('Nr Hoover', 'Dr. Hoover')",No
+2024-06-20,PT604,16:10:07,21:51:36,"['Difficulty Urinating', 'Dizziness or Vertigo', 'Bleeding']","('Nr Moore', 'Dr. Moore')",Yes
+2024-06-20,PT437,15:17:03,19:16:50,"['Fatigue', 'Changes in Vision', 'Cough']","('Nr Pierce', 'Dr. Pierce')",Yes
+2024-06-20,PT184,15:30:48,06:59:40,['Cough'],"('Nr Sparks', 'Dr. Sparks')",Yes
+2024-06-20,PT011,13:58:04,14:41:24,"['Headache', 'Fever']","('Nr Curtis', 'Dr. Curtis')",Yes
+2024-06-20,PT136,15:48:33,07:22:15,"['Altered Mental Status', 'Rash', 'Cough']","('Nr Stark', 'Dr. Stark')",Yes
+2024-06-20,PT901,23:42:05,16:33:17,"['Abdominal Distress', 'Nausea and Vomiting', 'Seizures']","('Nr Joseph', 'Dr. Joseph')",No
+2024-06-20,PT679,00:25:04,08:14:51,['Rash'],"('Nr Wiley', 'Dr. Wiley')",No
+2024-06-20,PT855,00:56:37,16:36:14,['Dizziness or Vertigo'],"('Nr Bishop', 'Dr. Bishop')",No
+2024-06-20,PT022,18:52:59,00:41:47,['Rash'],"('Nr Smith', 'Dr. Smith')",Yes
+2024-06-20,PT654,11:40:40,08:02:08,"['Dizziness or Vertigo', 'Headache', 'Bleeding']","('Nr Valencia', 'Dr. Valencia')",Yes
+2024-06-21,PT639,09:38:12,01:34:43,"['Altered Mental Status', 'Difficulty Urinating']","('Nr Dickerson', 'Dr. Dickerson')",Yes
+2024-06-21,PT581,18:41:02,08:56:03,"['Changes in Vision', 'Bleeding']","('Nr Glover', 'Dr. Glover')",No
+2024-06-21,PT221,23:06:20,16:30:24,"['Headache', 'Nausea and Vomiting', 'Seizures']","('Nr Gaines', 'Dr. Gaines')",No
+2024-06-21,PT390,08:47:54,19:35:08,['Chest Pain'],"('Nr Cox', 'Dr. Cox')",Yes
+2024-06-21,PT550,08:18:26,12:51:59,"['Rash', 'Shortness of Breath', 'Weakness']","('Nr Moore', 'Dr. Moore')",No
+2024-06-21,PT376,15:08:20,14:36:40,"['Headache', 'Pain']","('Nr Davidson', 'Dr. Davidson')",Yes
+2024-06-21,PT294,20:31:36,21:47:16,"['Fatigue', 'Cough', 'Changes in Vision']","('Nr Zhang', 'Dr. Zhang')",No
+2024-06-21,PT738,16:32:29,05:38:30,['Abdominal Distress'],"('Nr Owens', 'Dr. Owens')",No
+2024-06-21,PT874,13:42:43,13:25:13,['Nausea and Vomiting'],"('Nr Gilbert', 'Dr. Gilbert')",Yes
+2024-06-21,PT037,05:13:37,10:05:36,"['Bleeding', 'Headache']","('Nr Andrews', 'Dr. Andrews')",Yes
+2024-06-21,PT672,00:46:58,21:53:56,"['Cough', 'Fatigue']","('Nr Carter', 'Dr. Carter')",No
+2024-06-22,PT315,21:53:11,16:42:33,['Altered Mental Status'],"('Nr Smith', 'Dr. Smith')",No
+2024-06-22,PT906,20:27:01,23:17:46,"['Seizures', 'Shortness of Breath', 'Rash']","('Nr Brown', 'Dr. Brown')",No
+2024-06-22,PT828,08:25:50,14:21:59,"['Fever', 'Pain']","('Nr Klein', 'Dr. Klein')",No
+2024-06-22,PT435,07:56:45,02:48:18,['Fever'],"('Nr Williams', 'Dr. Williams')",No
+2024-06-22,PT495,03:32:29,11:57:45,['Chest Pain'],"('Nr Wang', 'Dr. Wang')",No
+2024-06-22,PT001,19:24:57,09:26:52,"['Weakness', 'Cough']","('Nr Johnson', 'Dr. Johnson')",No
+2024-06-22,PT312,18:03:00,23:43:40,['Fever'],"('Nr Jackson', 'Dr. Jackson')",Yes
+2024-06-22,PT651,10:07:26,23:47:01,"['Nausea and Vomiting', 'Fever', 'Cough']","('Nr Hill', 'Dr. Hill')",No
+2024-06-22,PT869,19:23:31,21:25:59,"['Headache', 'Pain', 'Changes in Vision']","('Nr Nichols', 'Dr. Nichols')",Yes
+2024-06-22,PT059,16:56:56,15:56:14,"['Nausea and Vomiting', 'Fever']","('Nr Johnson', 'Dr. Johnson')",No
+2024-06-22,PT690,20:12:36,16:06:28,"['Cough', 'Chest Pain', 'Difficulty Urinating']","('Nr Reese', 'Dr. Reese')",No
+2024-06-22,PT961,22:42:14,09:14:43,['Altered Mental Status'],"('Nr Morales', 'Dr. Morales')",Yes
+2024-06-22,PT288,19:11:38,03:42:59,"['Rash', 'Chest Pain']","('Nr Leonard', 'Dr. Leonard')",Yes
+2024-06-22,PT426,12:23:02,09:22:37,"['Abdominal Distress', 'Altered Mental Status']","('Nr Carter', 'Dr. Carter')",Yes
+2024-06-22,PT835,04:59:49,11:18:41,"['Changes in Vision', 'Fatigue']","('Nr Mclaughlin', 'Dr. Mclaughlin')",Yes
+2024-06-22,PT369,08:58:13,06:54:37,"['Fatigue', 'Rash']","('Nr Smith', 'Dr. Smith')",Yes
+2024-06-23,PT867,13:48:39,09:34:17,"['Shortness of Breath', 'Nausea and Vomiting']","('Nr Young', 'Dr. Young')",Yes
+2024-06-23,PT278,07:22:31,20:32:11,"['Weakness', 'Altered Mental Status']","('Nr Bishop', 'Dr. Bishop')",No
+2024-06-23,PT1000,19:24:11,14:47:37,"['Headache', 'Difficulty Urinating', 'Altered Mental Status']","('Nr Soto', 'Dr. Soto')",No
+2024-06-23,PT768,02:21:50,00:58:27,['Difficulty Urinating'],"('Nr Ward', 'Dr. Ward')",No
+2024-06-23,PT180,01:40:43,03:41:49,"['Nausea and Vomiting', 'Altered Mental Status', 'Abdominal Distress']","('Nr Bell', 'Dr. Bell')",No
+2024-06-23,PT764,23:25:24,08:39:37,"['Changes in Vision', 'Shortness of Breath']","('Nr Weber', 'Dr. Weber')",Yes
+2024-06-23,PT881,03:15:29,17:16:38,"['Nausea and Vomiting', 'Shortness of Breath']","('Nr Miller', 'Dr. Miller')",No
+2024-06-23,PT079,03:38:34,01:50:37,['Nausea and Vomiting'],"('Nr Landry', 'Dr. Landry')",No
+2024-06-23,PT433,13:28:02,21:04:51,"['Chest Pain', 'Shortness of Breath']","('Nr Wilcox', 'Dr. Wilcox')",No
+2024-06-23,PT943,08:10:46,14:48:32,"['Abdominal Distress', 'Rash']","('Nr Caldwell', 'Dr. Caldwell')",No
+2024-06-24,PT449,00:04:22,15:06:54,['Altered Mental Status'],"('Nr Harrison', 'Dr. Harrison')",No
+2024-06-24,PT989,23:09:34,12:06:58,"['Fever', 'Dizziness or Vertigo', 'Bleeding']","('Nr Lewis', 'Dr. Lewis')",No
+2024-06-24,PT788,07:01:47,03:20:43,"['Dizziness or Vertigo', 'Fatigue', 'Seizures']","('Nr Mendez', 'Dr. Mendez')",Yes
+2024-06-24,PT434,04:22:41,07:14:19,"['Weakness', 'Pain', 'Abdominal Distress']","('Nr Page', 'Dr. Page')",Yes
+2024-06-24,PT135,07:32:26,18:11:03,"['Difficulty Urinating', 'Bleeding', 'Altered Mental Status']","('Nr Green', 'Dr. Green')",No
+2024-06-24,PT458,11:01:24,15:10:45,"['Dizziness or Vertigo', 'Chest Pain']","('Nr Fowler', 'Dr. Fowler')",No
+2024-06-24,PT282,01:22:38,10:43:43,"['Cough', 'Rash']","('Nr Rubio', 'Dr. Rubio')",Yes
+2024-06-24,PT395,11:36:53,19:05:28,"['Difficulty Urinating', 'Weakness']","('Nr Rodriguez', 'Dr. Rodriguez')",Yes
+2024-06-24,PT230,17:18:57,22:54:49,['Fatigue'],"('Nr King', 'Dr. King')",No
+2024-06-24,PT872,19:01:10,03:54:30,"['Changes in Vision', 'Weakness']","('Nr Miller', 'Dr. Miller')",Yes
+2024-06-25,PT086,20:26:04,16:13:47,"['Chest Pain', 'Dizziness or Vertigo']","('Nr Mercer', 'Dr. Mercer')",No
+2024-06-25,PT966,01:29:40,18:33:33,['Bleeding'],"('Nr Jordan', 'Dr. Jordan')",Yes
+2024-06-25,PT697,02:09:55,04:15:48,"['Fatigue', 'Changes in Vision']","('Nr Stein', 'Dr. Stein')",Yes
+2024-06-25,PT084,01:07:18,20:50:00,"['Seizures', 'Abdominal Distress']","('Nr Oconnor', 'Dr. Oconnor')",No
+2024-06-25,PT026,16:12:25,10:21:57,"['Altered Mental Status', 'Bleeding']","('Nr Andrews', 'Dr. Andrews')",Yes
+2024-06-25,PT330,08:17:11,05:34:18,['Seizures'],"('Nr White', 'Dr. White')",Yes
+2024-06-26,PT991,22:04:16,20:38:45,"['Pain', 'Altered Mental Status', 'Abdominal Distress']","('Nr Smith', 'Dr. Smith')",No
+2024-06-26,PT536,16:25:37,03:49:55,"['Seizures', 'Shortness of Breath']","('Nr Hall', 'Dr. Hall')",Yes
+2024-06-26,PT212,11:33:09,20:56:58,"['Bleeding', 'Rash', 'Weakness']","('Nr Bowman', 'Dr. Bowman')",No
+2024-06-26,PT716,02:06:31,12:13:43,"['Altered Mental Status', 'Changes in Vision']","('Nr Hogan', 'Dr. Hogan')",Yes
+2024-06-26,PT112,10:35:15,03:31:09,"['Shortness of Breath', 'Nausea and Vomiting', 'Dizziness or Vertigo']","('Nr Snyder', 'Dr. Snyder')",No
+2024-06-26,PT507,16:26:27,14:44:22,['Fatigue'],"('Nr Brooks', 'Dr. Brooks')",No
+2024-06-26,PT340,08:45:59,11:26:05,"['Bleeding', 'Rash']","('Nr Little', 'Dr. Little')",No
+2024-06-26,PT462,05:52:19,02:14:25,['Rash'],"('Nr Tate', 'Dr. Tate')",Yes
+2024-06-26,PT853,02:02:44,01:07:16,['Cough'],"('Nr Cook', 'Dr. Cook')",No
+2024-06-26,PT807,00:47:33,10:39:34,['Chest Pain'],"('Nr Smith', 'Dr. Smith')",Yes
+2024-06-26,PT996,00:59:54,16:21:00,['Changes in Vision'],"('Nr Gutierrez', 'Dr. Gutierrez')",Yes
+2024-06-26,PT556,21:31:10,22:33:23,"['Cough', 'Fever']","('Nr Butler', 'Dr. Butler')",No
+2024-06-26,PT256,03:10:40,05:51:19,['Fatigue'],"('Nr Kidd', 'Dr. Kidd')",No
+2024-06-26,PT691,16:48:34,15:54:35,['Seizures'],"('Nr Dunlap', 'Dr. Dunlap')",Yes
+2024-06-26,PT407,11:01:52,10:59:48,"['Difficulty Urinating', 'Cough']","('Nr Santiago', 'Dr. Santiago')",Yes
+2024-06-27,PT398,22:07:44,11:37:24,"['Fatigue', 'Seizures', 'Shortness of Breath']","('Nr Williams', 'Dr. Williams')",Yes
+2024-06-27,PT300,20:42:02,02:09:27,"['Headache', 'Pain', 'Rash']","('Nr Peterson', 'Dr. Peterson')",Yes
+2024-06-27,PT002,17:44:20,20:47:27,['Nausea and Vomiting'],"('Nr Morris', 'Dr. Morris')",Yes
+2024-06-27,PT421,11:19:34,00:41:07,"['Dizziness or Vertigo', 'Weakness']","('Nr Adkins', 'Dr. Adkins')",Yes
+2024-06-27,PT074,21:56:46,06:53:09,"['Dizziness or Vertigo', 'Cough', 'Nausea and Vomiting']","('Nr Pearson', 'Dr. Pearson')",Yes
+2024-06-27,PT535,18:14:12,09:12:11,"['Nausea and Vomiting', 'Fatigue', 'Fever']","('Nr Ellis', 'Dr. Ellis')",Yes
+2024-06-27,PT051,21:48:19,23:20:06,['Shortness of Breath'],"('Nr Singleton', 'Dr. Singleton')",No
+2024-06-27,PT419,07:24:12,23:34:54,"['Headache', 'Nausea and Vomiting']","('Nr Hampton', 'Dr. Hampton')",Yes
+2024-06-27,PT281,07:16:01,12:58:15,['Rash'],"('Nr Wright', 'Dr. Wright')",No
+2024-06-27,PT964,15:26:12,23:00:48,['Nausea and Vomiting'],"('Nr Kelley', 'Dr. Kelley')",Yes
+2024-06-27,PT506,13:16:56,15:20:58,['Fever'],"('Nr May', 'Dr. May')",Yes
+2024-06-27,PT474,07:05:09,17:19:54,['Abdominal Distress'],"('Nr Gibson', 'Dr. Gibson')",Yes
+2024-06-27,PT190,22:29:21,10:23:51,"['Chest Pain', 'Dizziness or Vertigo', 'Rash']","('Nr Jones', 'Dr. Jones')",Yes
+2024-06-27,PT625,07:19:04,01:42:55,['Chest Pain'],"('Nr Rodgers', 'Dr. Rodgers')",No
+2024-06-28,PT640,00:39:11,13:26:02,"['Pain', 'Difficulty Urinating', 'Changes in Vision']","('Nr Ho', 'Dr. Ho')",Yes
+2024-06-28,PT087,10:53:56,02:38:49,"['Seizures', 'Cough']","('Nr Duncan', 'Dr. Duncan')",Yes
+2024-06-28,PT014,12:02:24,01:31:48,['Pain'],"('Nr Li', 'Dr. Li')",Yes
+2024-06-28,PT144,21:00:49,02:51:23,['Headache'],"('Nr Roberts', 'Dr. Roberts')",Yes
+2024-06-28,PT984,05:18:58,05:41:57,"['Difficulty Urinating', 'Rash']","('Nr Allen', 'Dr. Allen')",Yes
+2024-06-28,PT538,20:01:40,19:15:55,"['Shortness of Breath', 'Altered Mental Status', 'Difficulty Urinating']","('Nr Wood', 'Dr. Wood')",No
+2024-06-28,PT880,22:51:10,20:44:48,"['Fatigue', 'Fever', 'Abdominal Distress']","('Nr Young', 'Dr. Young')",No
+2024-06-28,PT479,19:56:31,21:26:07,['Nausea and Vomiting'],"('Nr Winters', 'Dr. Winters')",No
+2024-06-28,PT433,02:29:00,02:45:56,['Fever'],"('Nr Adkins', 'Dr. Adkins')",No
+2024-06-28,PT724,13:20:53,05:04:46,"['Bleeding', 'Altered Mental Status']","('Nr Henson', 'Dr. Henson')",Yes
+2024-06-28,PT511,13:07:07,12:19:22,"['Rash', 'Nausea and Vomiting', 'Fever']","('Nr Reyes', 'Dr. Reyes')",No
+2024-06-28,PT970,01:27:21,23:58:02,"['Seizures', 'Cough']","('Nr Miller', 'Dr. Miller')",Yes
+2024-06-28,PT452,12:44:52,09:38:37,"['Difficulty Urinating', 'Nausea and Vomiting']","('Nr Parker', 'Dr. Parker')",No
+2024-06-28,PT378,05:12:39,04:09:54,"['Bleeding', 'Chest Pain', 'Fever']","('Nr Palmer', 'Dr. Palmer')",Yes
+2024-06-28,PT594,21:34:51,14:40:14,"['Weakness', 'Nausea and Vomiting', 'Shortness of Breath']","('Nr Hamilton', 'Dr. Hamilton')",Yes
+2024-06-28,PT123,22:20:46,09:18:16,"['Shortness of Breath', 'Fatigue']","('Nr Bennett', 'Dr. Bennett')",Yes
+2024-06-28,PT164,00:02:35,22:39:05,['Headache'],"('Nr Smith', 'Dr. Smith')",No
+2024-06-28,PT750,04:28:11,14:03:36,"['Headache', 'Abdominal Distress']","('Nr Contreras', 'Dr. Contreras')",Yes
+2024-06-29,PT111,19:25:21,01:07:51,"['Nausea and Vomiting', 'Fever', 'Headache']","('Nr Becker', 'Dr. Becker')",No
+2024-06-29,PT496,00:31:40,01:26:04,"['Nausea and Vomiting', 'Chest Pain', 'Abdominal Distress']","('Nr Green', 'Dr. Green')",No
+2024-06-29,PT620,10:12:39,08:03:43,"['Shortness of Breath', 'Seizures']","('Nr Whitney', 'Dr. Whitney')",Yes
+2024-06-29,PT206,20:38:03,18:29:01,"['Weakness', 'Fatigue', 'Pain']","('Nr Evans', 'Dr. Evans')",No
+2024-06-29,PT433,05:25:30,00:33:10,"['Pain', 'Fever', 'Weakness']","('Nr Bird', 'Dr. Bird')",No
+2024-06-29,PT348,10:55:01,15:40:14,"['Nausea and Vomiting', 'Dizziness or Vertigo']","('Nr Quinn', 'Dr. Quinn')",No
+2024-06-29,PT194,11:37:58,11:21:22,"['Seizures', 'Dizziness or Vertigo', 'Abdominal Distress']","('Nr Watson', 'Dr. Watson')",No
+2024-06-29,PT550,02:02:34,11:30:26,['Fever'],"('Nr Wilkins', 'Dr. Wilkins')",No
+2024-06-29,PT724,21:55:54,17:48:04,"['Chest Pain', 'Headache']","('Nr West', 'Dr. West')",Yes
+2024-06-29,PT248,16:11:23,23:46:42,"['Headache', 'Seizures']","('Nr Wong', 'Dr. Wong')",Yes
+2024-06-29,PT748,22:15:59,00:25:05,"['Nausea and Vomiting', 'Weakness']","('Nr Elliott', 'Dr. Elliott')",Yes
+2024-06-29,PT142,19:58:09,16:54:50,['Difficulty Urinating'],"('Nr Glenn', 'Dr. Glenn')",No
+2024-06-29,PT391,07:55:16,23:07:19,"['Nausea and Vomiting', 'Shortness of Breath']","('Nr Burnett', 'Dr. Burnett')",No
+2024-06-30,PT033,20:24:23,09:38:25,"['Dizziness or Vertigo', 'Seizures', 'Bleeding']","('Nr Hood', 'Dr. Hood')",No
+2024-06-30,PT074,12:42:35,16:27:18,"['Chest Pain', 'Headache']","('Nr Green', 'Dr. Green')",No
+2024-06-30,PT428,16:36:27,07:11:14,['Fever'],"('Nr Wilson', 'Dr. Wilson')",No
+2024-06-30,PT798,23:33:17,00:04:02,"['Shortness of Breath', 'Difficulty Urinating']","('Nr Oliver', 'Dr. Oliver')",No
+2024-06-30,PT559,21:23:20,01:43:22,"['Cough', 'Changes in Vision', 'Dizziness or Vertigo']","('Nr Hughes', 'Dr. Hughes')",Yes
+2024-06-30,PT923,01:09:55,08:54:31,"['Bleeding', 'Fever']","('Nr Blackwell', 'Dr. Blackwell')",Yes
+2024-06-30,PT765,01:15:42,06:09:30,"['Abdominal Distress', 'Altered Mental Status', 'Fatigue']","('Nr Dennis', 'Dr. Dennis')",No
+2024-06-30,PT885,01:37:01,23:40:59,['Fever'],"('Nr Michael', 'Dr. Michael')",Yes
+2024-06-30,PT627,00:01:50,04:04:20,['Shortness of Breath'],"('Nr Cruz', 'Dr. Cruz')",Yes
+2024-06-30,PT410,06:46:10,04:19:47,"['Chest Pain', 'Fatigue', 'Dizziness or Vertigo']","('Nr Russell', 'Dr. Russell')",No
+2024-06-30,PT160,03:56:12,19:09:52,"['Weakness', 'Shortness of Breath']","('Nr Miller', 'Dr. Miller')",No
+2024-06-30,PT251,08:25:49,01:23:11,['Abdominal Distress'],"('Nr Miller', 'Dr. Miller')",Yes
+2024-06-30,PT241,07:07:03,16:16:41,"['Fatigue', 'Shortness of Breath', 'Headache']","('Nr Ingram', 'Dr. Ingram')",Yes
+2024-06-30,PT792,00:00:55,01:39:56,"['Pain', 'Headache']","('Nr Martinez', 'Dr. Martinez')",No
+2024-06-30,PT611,05:36:40,14:54:23,"['Cough', 'Nausea and Vomiting']","('Nr Arias', 'Dr. Arias')",Yes
+2024-06-30,PT085,19:30:31,15:25:41,"['Bleeding', 'Fever', 'Dizziness or Vertigo']","('Nr Martinez', 'Dr. Martinez')",Yes
