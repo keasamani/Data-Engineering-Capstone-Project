@@ -68,7 +68,7 @@ Step 7: Close Database Connection.
 - Jupyter Notebook (for development and documentation)
 
 ## Contribution
-Contributions to this project are welcome. You can contribute by:
+Contributions to this project are warmly welcomed. You can contribute by:
 - Opening an issue to report bugs or suggest improvements.
 - Forking the repository, making changes, and opening a pull request.
 
