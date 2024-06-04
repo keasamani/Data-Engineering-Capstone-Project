@@ -23,31 +23,43 @@ To get started with this project, kindly follow these steps:
 
 4. Previous Year Statistics - This dataset contains statistical information from the previous year, encompassing various aspects such as financial performance, operational metrics, and any other relevant statistical data.
 
-## Caution: This dataset has been generated using the Faker library due to the unavailability of real hospital data. It is synthetic and does not represent real patient information. It is intended for demonstration and testing purposes only.
+#### Caution: This dataset has been generated using the Faker library due to the unavailability of real hospital data. It is synthetic and does not represent real patient information. It is intended for demonstration and testing purposes only.
 
 ## Data Generation Pipeline
 The data generation process employs the Faker library to create synthetic data sets.
 
-Step 1: Import Required Libraries
-Step 2: Initialize Faker
-Step 3: Generate Patient Record Log Data and save data to csv
+Step 1: Import Required Libraries.
+
+Step 2: Initialize Faker.
+
+Step 3: Generate Patient Record Log Data and save data to csv.
+
 Step 4: Generate Data for Hospital Human Resource Status and save data to csv
-Step 5: Generate Financial Data per Quarter and save data to csv
-Step 6: Generate Data for Hospital Performance in the Previous Year and save data to csv
+
+Step 5: Generate Financial Data per Quarter and save data to csv.
+
+Step 6: Generate Data for Hospital Performance in the Previous Year and save data to csv.
 
 ## Data Ingestion Pipeline
 The data ingestion pipeline facilitates the seamless flow of data from its generation to storage, laying the groundwork for subsequent analysis and insights generation.
 
 Following the generation of synthetic data, the next crucial step is its ingestion into a centralized PostgreSQL database. This centralized repository serves as a core storage area where the generated data is stored for further processing, analysis, and integration with other datasets.
 
-Step 1: Set Up Database Connection
+Step 1: Set Up Database Connection.
+
 NB: Ensure that you have PostgreSQL installed and running on your local machine or server.
-Step 2: Define Data Reading and Insertion Functions
-Step 3: Establish Connection to PostgreSQL Database
-Step 4: Define File Paths and Read CSV Files
-Step 5: Handle Schema Evolution (Optional)
-Step 6: Insert Data into PostgreSQL Database
-Step 7: Close Database Connection
+
+Step 2: Define Data Reading and Insertion Functions.
+
+Step 3: Establish Connection to PostgreSQL Database.
+
+Step 4: Define File Paths and Read CSV Files.
+
+Step 5: Handle Schema Evolution (Optional).
+
+Step 6: Insert Data into PostgreSQL Database.
+
+Step 7: Close Database Connection.
 
 ## Technologies Used
 - Python (for data generation and transformation)
